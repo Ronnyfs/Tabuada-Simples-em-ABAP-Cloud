@@ -5,7 +5,7 @@ Código iniciante em Abap Cloud que realiza as 4 operações básicas da matemá
  Atenção! foi implementado uma classe(if_oo_adt_classrun) para que fosse possível visualizarmos em console os resultados.
  
  Operação de Multiplicação
- ![Multiplicação](imgs/operação 1.jpeg)
+ ![Multiplicação](imgs/operação1.jpeg)
 
 Operação de Adição
  ![Adição](imgs/telainicial.png)
