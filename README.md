@@ -8,10 +8,10 @@ Código iniciante em Abap Cloud que realiza as 4 operações básicas da matemá
  ![Multiplicação](imgs/operação1.jpeg)
 
 Operação de Adição
- ![Adição](imgs/telainicial.png)
+ ![Adição](imgs/operação2.jpeg)
 
 Operação de Subtração
- ![Subtração](imgs/telainicial.png)
+ ![Subtração](imgs/operação3.jpeg)
 
 Operação de Divisão
- ![Divisão](imgs/telainicial.png)
+ ![Divisão](imgs/operação4.jpeg)
